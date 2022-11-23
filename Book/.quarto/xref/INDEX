@@ -1,21 +1,8 @@
 {
   "index.qmd": {
-    "index.html": "dca5471e"
+    "index.html": "392b7057"
   },
   "about.qmd": {
-    "about.html": "0cb593ba"
-  },
-  "test.ipynb": {
-    "test.html": "2955c3f4"
-  },
-  "chapters/chapter_01/01_Warum_Python.qmd": {
-    "01_Warum_Python.html": "a76ba231"
-  },
-  "chapters/chapter_01/Fallstudie.md": {
-    "Fallstudie.html": "51b9c39f"
-  },
-  "chapters/chapter_01/01_Slides.qmd": {
-    "01_Slides.html": "104aef72",
-    "01_Slides.tex": "423a3e73"
+    "about.html": "3a44b125"
   }
 }
