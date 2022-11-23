@@ -1,0 +1,85 @@
+---
+title: "Computational Analytics"
+author: Felix Zeidler
+date: 10.11.2022
+affiliation: FH Bielefeld
+from: markdown+emoji
+format: 
+    revealjs: 
+        theme: [moon, mycss.css]
+        code-fold: true
+        scrollable: true
+        transition: none
+footer: Prof. Dr. Felix Zeidler
+---
+
+## Housekeeping
+
+<br/>
+
+::: {.incremental}
+- Intro :wave:
+- Workshop materials :arrow_down:
+- Break :clock9:
+- By the end of today :heavy_check_mark:
+- Today's plan :clipboard:
+:::
+
+# What is R?
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4 5 6]{style="opacity:0.25"}
+:::
+:::
+
+
+# Und noch was
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 2 [3 4 5 6]{style="opacity:0.25"}
+:::
+:::
+
+
+--- 
+
+## Noch ein Test
+
+## Computational Analytics
+#### Prof. Dr. Felix Zeidler
+
+<br></br>
+
+Dies ist ein Test Test
+
+- erstens 
+- zweitens
+- drittes
+
+
+## Test
+
+::: columns
+::: {.column width="50%"}
+<br>
+<br>
+You use R via *packages*
+:::
+::: {.fragment}
+<br/>
+...which contain *functions*
+:::
+::: {.fragment}
+<br>
+...which are just *verbs*
+:::
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+....
+:::
+:::
+

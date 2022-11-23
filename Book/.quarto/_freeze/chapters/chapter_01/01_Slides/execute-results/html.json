@@ -1,0 +1,11 @@
+{
+  "hash": "9fe2b9ac5ac7e7ac60f65e3b0f2ed963",
+  "result": {
+    "markdown": "---\ntitle: \"Computation Business Analytics\"\nlang: de\ntitle-slide-attributes:\n    data-background-size: contain\n    data-background-opacity: \"0.5\"\nformat:\n    revealjs: \n        theme: moon\n        footer: \"Prof. Dr. Felix Zeidler\"\n        reference-location: document\n---\n\n## Was wir heute machen\n\n:grinning:\n\nDies ist ein Test\n\n\n## Slide Title {background-color=\"blue\"}\n\n### Das ist toall!!!!\n\n## Slide Title\n\n- Green ^[Wobei das auch nicht immer ganz so stimmt!!!]\n- Brown\n- Purple\n\n::: aside\n__Hinweis__: Some additional commentary of more peripheral interest.\n:::\n\n\n- ERstens\n- Zwei`te`ns\n- Drittens\n\n\n\n## Python ist super\n\nWas bedeutet das eigentlich?\n\n```{.python code-line-numbers=\"6-8,10\"}\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n```\n\n## Header 4\n\n\nDies ist ein\n\n::: {.fragment .highlight-red}\nTest\n:::\n\n\n## Python Code\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](01_Slides_files/figure-revealjs/cell-2-output-1.png){width=443 height=432}\n:::\n:::\n\n\n",
+    "supporting": [
+      "01_Slides_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
