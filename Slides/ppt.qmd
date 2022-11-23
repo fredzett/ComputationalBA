@@ -1,0 +1,94 @@
+---
+title: "Streamlining with R"
+subtitle: "`Eine Einführung in R und RStudio`"
+author: "F. Zeidler"
+format: 
+  revealjs:
+    footer: "[red]_Prof. Dr. Zeidler | Python Basics"
+    theme: [coeos.scss]
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+    transition: fade
+    menu: true
+    toc: true
+    toc-title: "Was wir heute vor haben"
+    navigation-mode: grid
+from: markdown+emoji
+execute:
+  echo: true
+---
+
+# Slide mit Background {background-image="https://as1.ftcdn.net/v2/jpg/01/62/64/54/1000_F_162645482_NxX2QvrTs4ETjZ6PUTt3m77wRuiNgk9t.jpg"}
+
+Nicht schlecht, oder?
+
+
+## Housekeeping {.scrollable}
+### Was wir heute vor haben
+
+<br/>
+
+::: {.incremental}
+- Intro :wave:
+- Workshop materials :arrow_down:
+- Break :clock9:
+- By the end of today :heavy_check_mark:
+- Today's plan :clipboard:
+:::
+
+:heavy_exclamation_mark:
+
+
+> **Please make sure you have the following installed on your computer:**
+> - R
+> - RStudio
+
+---
+
+## Today's plan
+
+<br/>
+
+::: {.incremental}
+1. What is R? How can it ease the burden of repeated reporting?
+2. Basic functions for manipulating data
+3. Using R effectively
+4. More data manipulation
+5. Visualizing data
+6. A peek at advanced topics
+:::
+
+# What is R?
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4 5 6]{style="opacity:0.25"}
+:::
+:::
+
+
+
+
+# Some other Stuff
+
+::: {.absolute top="0" left="90%"}
+::: {.sectionhead}
+1 2 [3 4 5 6]{style="opacity:0.25"}
+:::
+:::
+
+
+
+## Dies und das!
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Left column
+:::
+
+::: {.column width="60%"}
+Right column
+:::
+::::
